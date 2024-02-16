@@ -16,3 +16,7 @@ After first sharing of the project staeps are always the same as:
 1. git add . 
 2. git commit 
 3git 
+
+branching
+git branch "branchName"
+git checkout branchName
