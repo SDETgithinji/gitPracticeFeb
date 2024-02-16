@@ -12,3 +12,7 @@ Now you can share you project your project on github
 
 If you get error pushing your code because your local branch is named as master and remore is named as main, do the following:
 git branch -M main 
+After first sharing of the project staeps are always the same as:
+1. git add . 
+2. git commit 
+3git 
