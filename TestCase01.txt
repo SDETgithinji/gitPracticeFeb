@@ -1,3 +1,14 @@
 jkdlkadckla
 dbkjcnkjanckj
 hbkjabcjdnskj
+
+Kui is a very good girl 
+shKJkskjAKJds
+
+git add fileName : adding changes to stage for a file
+git add . : adds every change to stage
+git commit - m "commit message" commiting your change goes to the local repository
+Now you can share you project your project on github
+
+If you get error pushing your code because your local branch is named as master and remore is named as main, do the following:
+git branch -M main 
